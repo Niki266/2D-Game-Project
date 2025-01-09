@@ -9,7 +9,7 @@ Welcome to the **2D Game Project**, a fun and interactive game created using p5.
 1. Download the Project or Clone the repository
 2. You can directly open `index.html` by double-clicking it
    
-🌟 **Play and enjoy the game!**
+**Play and enjoy the game!** 🌟
 
 ## 🚀 Features
 
