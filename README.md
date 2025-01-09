@@ -36,10 +36,7 @@ Welcome to the **2D Game Project**, a fun and interactive game created using p5.
    ```bash
    cd 2D-Game-Project-main/Final\ Game\ Project
    ```
-3. Open `index.html` in your browser:
-   ```
-   You can directly open index.html by double-clicking it or using a text editor/IDE (e.g. VS Code or Brackets) that supports live preview.
-   ```
+3. You can directly open index.html by double-clicking it or using a text editor/IDE (e.g. VS Code or Brackets) that supports live preview.
 4. Play and enjoy the game!
 
 ## 🧩 Customization
