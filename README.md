@@ -34,7 +34,6 @@ Welcome to the **2D Game Project**, a fun and interactive game created using p5.
 │   └── sketch.js        # Game logic and visuals
 └── README.md            # Project documentation
 ```
-
 ## 🧩 Customization
 
 - Modify `sketch.js` to tweak game mechanics, visuals, or add new features.
