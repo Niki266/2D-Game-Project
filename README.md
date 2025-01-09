@@ -47,6 +47,3 @@ Welcome to the **2D Game Project**, a fun and interactive game created using the
 - Modify `sketch.js` to tweak game mechanics, visuals, or add new features.
 - Replace `p5.min.js` with the latest version of p5.js if needed.
 - Update `index.html` to change the game layout or styling.
-
-🎨 **Ready to explore? Fire up the game and let the fun begin!**
-
