@@ -30,7 +30,7 @@ Welcome to the **2D Game Project**, a fun and interactive game created using p5.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/2D-Game-Project.git
+   git clone https://github.com/Niki266/2D-Game-Project.git
    ```
 2. Navigate to the `Final Game Project` directory:
    ```bash
@@ -38,7 +38,7 @@ Welcome to the **2D Game Project**, a fun and interactive game created using p5.
    ```
 3. Open `index.html` in your browser:
    ```
-   # On most systems, you can double-click `index.html` to open it.
+   You can directly open index.html by double-clicking it or using a text editor/IDE (e.g. VS Code or Brackets) that supports live preview.
    ```
 4. Play and enjoy the game!
 
