@@ -2,6 +2,8 @@
 
 Welcome to the **2D Game Project**, a fun and interactive game created using p5.js. This project showcases creative coding and demonstrates how simple tools can create engaging experiences. Dive into the game, and let the adventure begin!
 
+![image](https://github.com/user-attachments/assets/ecc1528d-9bb1-42f8-af79-dda32d574fb7)
+
 ## 🚀 Features
 
 - **Interactive Gameplay**: Enjoy an immersive 2D gaming experience.
