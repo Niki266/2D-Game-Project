@@ -4,6 +4,13 @@ Welcome to the **2D Game Project**, a fun and interactive game created using p5.
 
 ![image](https://github.com/user-attachments/assets/ecc1528d-9bb1-42f8-af79-dda32d574fb7)
 
+## How to Play
+
+1. Download the Project or Clone the repository
+2. You can directly open index.html by double-clicking it
+   
+🌟 **Play and enjoy the game!**
+
 ## 🚀 Features
 
 - **Interactive Gameplay**: Enjoy an immersive 2D gaming experience.
@@ -33,10 +40,3 @@ Welcome to the **2D Game Project**, a fun and interactive game created using p5.
 - Modify `sketch.js` to tweak game mechanics, visuals, or add new features.
 - Replace `p5.min.js` with the latest version of p5.js if needed.
 - Update `index.html` to change the game layout or styling.
-
-## How to Play
-
-1. Download the Project or Clone the repository
-2. You can directly open index.html by double-clicking it
-   
-🌟 **Play and enjoy the game!**
